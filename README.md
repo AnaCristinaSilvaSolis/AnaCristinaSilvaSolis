@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi there!, I'm <a href="https://aristi.dev">Ana Cristina</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQGVpSzjrpHSeA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706553739787?e=1731542400&v=beta&t=yqMVQpV3HZQlcssvsfhPkgakeFGYAR00OqUd4yN80DM">
+
 
 
 ## About me
