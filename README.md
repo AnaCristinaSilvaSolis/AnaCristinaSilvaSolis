@@ -6,13 +6,13 @@
 
 ## About me
 
-🔭 I’m currently working on AWS, Spring Boot, Angular
+🔭 I’m currently working on BD, Spring Boot, Angular, Django, Python, Astro, React
 
 🌱 I’m currently learning about microservices
 
 ☁️ I've keen interest in cloud computing. So, I'm learning AWS
 
-💬 Ask me about Spring Boot and Software Quality
+💬 Ask me about Software Quality
 
 📫 Feel free to reach me out cristinasilvasolis09@gmail.com
 
