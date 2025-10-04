@@ -6,17 +6,19 @@
 
 ## About me
 
-🔭 I’m currently working on BD, Spring Boot, Angular, Django, Python, Astro, React
+🔭 Currently working on Spring Boot, Quality Assurance, and Leadership.
 
-🌱 I’m currently learning about microservices
+🌱 Passionate about Cybersecurity, continuously learning to enhance software quality standards.
 
-☁️ I've keen interest in cloud computing. So, I'm learning AWS
+⚙️ Deeply interested in Software Test Automation, while maintaining a solid foundation in Manual Testing.
 
-💬 Ask me about Software Quality
+💬 Always happy to talk about Software Quality, Testing Strategies, and Continuous Improvement.
 
-📫 Feel free to reach me out cristinasilvasolis09@gmail.com
+📫 Reach me anytime at cristinasilvasolis09@gmail.com
 
-🏠 Don't hesitate to drop me a 👋 on Linkedin – www.linkedin.com/in/anacristinasilvasolis
+🤝 Let’s connect on LinkedIn → www.linkedin.com/in/anacristinasilvasolis
+
+✨ Driven by curiosity, guided by quality, and committed to building better software every day.
 <br>
 
 ## 
