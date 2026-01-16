@@ -4,21 +4,17 @@
 
 
 
-## About me
+## Sobre mí
 
-🔭 Currently working on Spring Boot, Quality Assurance, and Leadership.
+👋 ¡Hola! Soy Ana, especialista en Aseguramiento de la Calidad de Software (QA) con experiencia en testing manual y automatizado, y una sólida base en desarrollo backend con Spring Boot.
 
-🌱 Passionate about Cybersecurity, continuously learning to enhance software quality standards.
+💻 He trabajado con tecnologías como Java, Spring Security, JWT y también tengo conocimientos en Angular, lo que me permite comprender el ciclo completo del desarrollo de software y asegurar la calidad desde su núcleo.
 
-⚙️ Deeply interested in Software Test Automation, while maintaining a solid foundation in Manual Testing.
+🧠 Actualmente estoy fortaleciendo mis conocimientos en ciberseguridad, con el objetivo de aportar mayor seguridad y confiabilidad a los productos que evalúo y desarrollo.
 
-💬 Always happy to talk about Software Quality, Testing Strategies, and Continuous Improvement.
+🚀 Trabajo bajo metodologías ágiles (Scrum), fomentando la colaboración efectiva entre equipos de desarrollo y QA. Me caracteriza mi pensamiento analítico, comunicación clara y una actitud orientada a resultados.
 
-📫 Reach me anytime at cristinasilvasolis09@gmail.com
-
-🤝 Let’s connect on LinkedIn → www.linkedin.com/in/anacristinasilvasolis
-
-✨ Driven by curiosity, guided by quality, and committed to building better software every day.
+✨ Apasionada por la mejora continua, la automatización y la excelencia en la calidad del software.
 <br>
 
 ## 
